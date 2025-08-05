@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/Untitled.md",
+                "file": "articles/test-article-with-zenncli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "test-article-with-zenncli"
             }
           }
         ]
@@ -187,11 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa594448a2dd9f26",
+  "active": "3cb86cd99f60beb6",
   "lastOpenFiles": [
     "templates/Zenn.md",
     "templates/DailyNote.md",
-    "articles/Untitled.md",
+    "articles/test-article-with-zenncli.md",
     "templates/ZennTemplate.md",
     "notes/daily/2025-08-05.md",
     "templates/無題のフォルダ",
